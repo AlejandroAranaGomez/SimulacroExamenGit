@@ -2,3 +2,8 @@
 	Alejandro Arana Gomez
 ---------------------------------------
 
+1. git clone
+2. (edito fichero)
+3. git add + git commit
+4. git push
+5. git push
