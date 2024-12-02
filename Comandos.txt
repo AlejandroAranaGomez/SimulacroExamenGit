@@ -22,4 +22,7 @@
 20. checkout develop
 21. Branch feature/Ticket222
 22. checkout feature/Ticket220
-
+24. add + commit
+25. git checkout
+26. git merge --no-f 
+27. git merge --no-f (conflicto hay que ordenar) + add + commit 
