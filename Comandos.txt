@@ -26,3 +26,8 @@
 25. git checkout
 26. git merge --no-f 
 27. git merge --no-f (conflicto hay que ordenar) + add + commit 
+29. git add + commit
+30. git tag "Step29"
+31. git push origin develop
+32. git checkout
+33. git checkout develop Comandos.txt
