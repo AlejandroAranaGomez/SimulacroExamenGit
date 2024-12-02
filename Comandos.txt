@@ -6,14 +6,20 @@
 2. (edito fichero)
 3. git add + git commit
 4. git push
-5. (edito fichero)
+5. git push
 6. git add + git commit
 7. git Branch develop
 8. git Branch feature/Ticket220 + git checkout
 9. (edito fichero)
+10. git add + git commit
+11. git Branch feature/Ticket221 + git checkout
+12. (edito fichero)
 14. stash + checkout
+16. add + commit
+17. checkout 
 18. stash apply + (edito fichero)
 19. add + commit
 20. checkout develop
 21. Branch feature/Ticket222
 22. checkout feature/Ticket220
+
