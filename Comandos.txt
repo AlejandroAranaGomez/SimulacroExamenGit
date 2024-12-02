@@ -7,3 +7,27 @@
 3. git add + git commit
 4. git push
 5. git push
+6. git add + git commit
+7. git Branch develop
+8. git Branch feature/Ticket220 + git checkout
+9. (edito fichero)
+10. git add + git commit
+11. git Branch feature/Ticket221 + git checkout
+12. (edito fichero)
+14. stash + checkout
+16. add + commit
+17. checkout 
+18. stash apply + (edito fichero)
+19. add + commit
+20. checkout develop
+21. Branch feature/Ticket222
+22. checkout feature/Ticket220
+24. add + commit
+25. git checkout
+26. git merge --no-f 
+27. git merge --no-f (conflicto hay que ordenar) + add + commit 
+29. git add + commit
+30. git tag "Step29"
+31. git push origin develop
+32. git checkout
+33. git checkout develop Comandos.txt
