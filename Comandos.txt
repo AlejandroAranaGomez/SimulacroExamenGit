@@ -11,4 +11,4 @@
 7. git Branch develop
 8. git Branch feature/Ticket220 + git checkout
 9. (edito fichero)
-10. 
+14. stash + checkout
