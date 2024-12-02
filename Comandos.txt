@@ -31,3 +31,8 @@
 31. git push origin develop
 32. git checkout
 33. git checkout develop Comandos.txt
+35. add + commit
+36. checkout 
+37. git merge --no-f
+38. checkout main
+39. git merge --no-f
